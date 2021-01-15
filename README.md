@@ -48,7 +48,7 @@ To install py2exe just type the following in the terminal:
 
 After fulfilling above requirments 
 
-* Copy/Clone #rps.py# and setup.py file
+* Copy/Clone rps.py and setup.py file
 
 * Run the setup.py file by using the command : 
 
