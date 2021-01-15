@@ -58,6 +58,6 @@ After fulfilling above requirments
 
 * Inside the dist folder there will be a file called "rps" which will be an Application Extension (.exe)
 
-* Click of the file to play the game
+* Click on the file to play the game like any other application
 
 
