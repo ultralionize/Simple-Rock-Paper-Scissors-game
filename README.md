@@ -20,17 +20,19 @@ You can quit the game by choosing 0.
 
 Copy/Clone the file to your device and run the following command in the command prompt/terminal : 
 
-python <absolute_path>/rps.py
+      python <absolute_path>/rps.py                # python C:\Users\device_name\Desktop\rps.py
+                                                   # python /etc/mnt/c/Users/device_name/Desktop/rps.py
 
 OR
 
-python <relative_path>/rps.py
+      python <relative_path>/rps.py                # python \device_name\Desktop\rps.py
+                                                   # python /device-name/Desktop/rps.py
 
 OR
 
 You can go to the location where the file is saved and you can open the command prompt/terminal there and just type:
 
-python rps.py
+      python rps.py
 
 
 **Create an Appliction Extension (.exe) file and play**
@@ -42,11 +44,11 @@ python rps.py
 
 To install py2exe just type the following in the terminal:
 
-pip install py2exe
+      pip install py2exe
 
 After fulfilling above requirments 
 
-* Copy/Clone rps.py and setup.py file
+* Copy/Clone #rps.py# and setup.py file
 
 * Run the setup.py file by using the command : 
 
