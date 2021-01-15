@@ -49,6 +49,7 @@ After fulfilling above requirments
 * Copy/Clone rps.py and setup.py file
 
 * Run the setup.py file by using the command : 
+
       python setup.py py2exe              #you can run by any method given above
       
 * It will create a folder named dist (you can rename this folder as Rock-Paper-Scissors or RPS).
